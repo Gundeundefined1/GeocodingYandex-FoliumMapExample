@@ -1,6 +1,6 @@
 # Содержание проекта GeocodingYandex-FoliumMapExample
 
-**Для лучшего отображения всех аутпутов можно открыть Jupyter Notebook по ссылке: https://nbviewer.org/github/Gundeundefined1/GeocodingYandex-FoliumMapExample/blob/main/Direct%20geocoding%20with%20Yandex%20geocoder.ipynb**
+**Для лучшего отображения всех аутпутов и правильной работы интерактивной карты в конце, можно открыть Jupyter Notebook по ссылке: https://nbviewer.org/github/Gundeundefined1/GeocodingYandex-FoliumMapExample/blob/main/Direct%20geocoding%20with%20Yandex%20geocoder.ipynb**
 
 ## Часть 1. Прямой геокодинг (geopy.geocoders Yandex) адресов из базы, подготовка датасета для дальнейшей визуализации на карте.
   1. geopy - основная билбиотека, которая будет использоваться в проекте для прямого геокодирования с помощью API Yandex
